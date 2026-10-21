@@ -1,0 +1,15 @@
+{
+  "name": "tabby-server-performance",
+  "version": "0.1.0",
+  "description": "Live CPU, load, memory, disk, network and uptime of the remote host, shown in each SSH tab of Tabby",
+  "keywords": ["tabby-plugin", "tabby", "ssh", "monitoring", "server", "performance"],
+  "main": "index.js",
+  "files": ["index.js"],
+  "author": "Nihat Soykök (https://github.com/tpecca)",
+  "homepage": "https://github.com/tpecca/tabby-server-performance",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tpecca/tabby-server-performance.git"
+  },
+  "license": "MIT"
+}
